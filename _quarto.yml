@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mauricio Koechlin"
+  description: "Pre-doctoral Research Professional, University of Chicago. Labor economics and the economics of the family."
+  site-url: https://maukoechlin.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: consulting.qmd
+        text: Consulting
+    right:
+      - text: CV
+        href: cv/Koechlin_CV.pdf
+        target: _blank
+  page-footer:
+    center: "Mauricio Koechlin · mkoechlin@uchicago.edu · Background: Costa Verde, Lima, Peru"
+
+format:
+  html:
+    theme: [litera, styles.scss]
+    page-layout: full
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

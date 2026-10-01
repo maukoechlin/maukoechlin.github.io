@@ -1,0 +1,56 @@
+---
+title: "Teaching"
+---
+
+## Universidad del Pacífico
+
+**Teaching Assistant** (*Jefe de Prácticas*), Department of Economics · 2021 – 2025 · five courses · 23 course-sections
+
+I taught my own weekly discussion sections, designed and graded the problem sets,
+wrote the midterm and final examinations each term, and advised students through
+office hours.
+
+Universidad del Pacífico runs two full semesters a year, written **I** (March to July)
+and **II** (August to December), plus a short intensive summer term in January and
+February, written **00**. So *202X-II* is the second semester of 202X, and *202X-00*
+is the summer term running from January to February 202X.
+
+### Advanced Econometrics
+
+[2023-II · 2024-I · 2024-II · 2025-I · 2025-II]{.row-meta}
+
+[[Texts]{.label}Enders, *Applied Econometric Time Series* (4th ed.) · Greene, *Econometric Analysis* (7th ed.) · Wooldridge, *Introductory Econometrics* · Angrist & Pischke, *Mostly Harmless Econometrics*]{.row-meta}
+
+[[Topics]{.label}Time series and unit root testing (Dickey-Fuller, Phillips-Perron), vector autoregressions, impulse-response functions and variance decomposition, cointegration (Engle-Granger and Johansen).]{.row-body}
+
+### Introduction to Macroeconomics
+
+[2021-I · 2021-II · 2022-I · 2022-II · 2023-I · 2023-II · 2024-I · 2025-I · 2025-II]{.row-meta}
+
+[[Texts]{.label}Mankiw, *Principles of Economics* · Parkin & Loría, *Macroeconomics* · Krugman, Obstfeld & Melitz, *International Economics*]{.row-meta}
+
+[[Topics]{.label}Aggregate demand and supply, money and inflation, the Phillips curve in the short and long run, fiscal and monetary policy, open-economy macroeconomics.]{.row-body}
+
+### Introduction to Microeconomics
+
+[2024-I · 2024-II · 2025-00 · 2025-I]{.row-meta}
+
+[[Texts]{.label}Mankiw, *Principles of Economics*, with Nicholson, *Intermediate Microeconomics* and Pindyck & Rubinfeld, *Microeconomics* as supplementary reading]{.row-meta}
+
+[[Topics]{.label}Scarcity and choice, consumer and producer theory, market structure, welfare and government intervention.]{.row-body}
+
+### Introduction to Statistics
+
+[2024-I · 2024-II · 2025-I · 2025-II]{.row-meta}
+
+[[Texts]{.label}Newbold, Carlson & Thorne, *Statistics for Business and Economics* · Anderson, Sweeney & Williams, *Statistics for Business and Economics*]{.row-meta}
+
+[[Topics]{.label}Descriptive statistics, probability, random variables and distributions, sampling distributions, estimation, hypothesis testing, covariance and regression.]{.row-body}
+
+### Static and Dynamic Optimization
+
+[2021-I]{.row-meta}
+
+[[Texts]{.label}Chiang, *Elements of Dynamic Optimization* · Chiang, *Fundamental Methods of Mathematical Economics* · Sydsæter & Hammond, *Mathematics for Economic Analysis*]{.row-meta}
+
+[[Topics]{.label}Topology in **R**^n^, convexity and the Weierstrass and local-global theorems, static optimization with and without constraints; the calculus of variations and the Euler equation, optimal control and the maximum principle, dynamic programming and the Bellman equation, including stochastic dynamic programming and log-linearization.]{.row-body}

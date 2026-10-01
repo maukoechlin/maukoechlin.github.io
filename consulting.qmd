@@ -1,0 +1,98 @@
+---
+title: "Consulting and Applied Research"
+---
+
+Applied economics engagements for multilateral organizations, government institutions
+and private firms across Peru, Colombia, Ecuador, Guatemala and Paraguay, ranging from
+impact evaluation and reproducibility auditing to regulatory and competition analysis.
+
+## Selected consulting projects
+
+::: {.item}
+[**Sustainability and financial inclusion**]{.iname}
+[Banco de Crédito del Perú · 2025]{.imeta}
+[Diagnostic of the bank's sustainability and financial inclusion initiatives, identifying strategic priorities and recommending actions to strengthen institutional impact.]{.ibody}
+:::
+
+::: {.item}
+[**Renewal of public-private concessions**]{.iname}
+[Confidential client, Peru · 2025]{.imeta}
+[Financial and economic feasibility analysis, with strategic recommendations for concession management.]{.ibody}
+:::
+
+::: {.item}
+[**Cross-border acquisition and antitrust review**]{.iname}
+[Confidential client, Ecuador · 2025]{.imeta}
+[Economic feasibility and antitrust analysis, including market assessment, regulatory compliance review and engagement with the national competition authority.]{.ibody}
+:::
+
+::: {.item}
+[**Port tariff regulation**]{.iname}
+[Salaverry Terminal Internacional · 2024]{.imeta}
+[Analysis of regulatory tariff structures and impact assessment of proposed pricing changes on port services.]{.ibody}
+:::
+
+::: {.item}
+[**Airport tariff regulation**]{.iname}
+[Lima Airport Partners · 2024]{.imeta}
+[Analysis of regulatory tariff structures and impact assessment of proposed pricing changes on airport services.]{.ibody}
+:::
+
+::: {.item}
+[**Demand for agricultural financing**]{.iname}
+[International Finance Corporation · 2024]{.imeta}
+[Estimation of demand for agro-financing through Digital Harvest Receipts and Digital Warehouse Receipts in Peru.]{.ibody}
+:::
+
+::: {.item}
+[**Support platform for scholarship beneficiaries**]{.iname}
+[Ministry of Education of Peru, PRONABEC · 2023]{.imeta}
+[Technical consistency assessment of the design and implementation of the Support and Guidance Platform (PAO) for higher-education scholarship beneficiaries.]{.ibody}
+:::
+
+::: {.item}
+[**Sustainable agriculture and rural development in Paraguay**]{.iname}
+[Global Saemaul Undong · 2023]{.imeta}
+[Quantitative impact evaluation.]{.ibody}
+:::
+
+::: {.item}
+[**Sexual education in Colombian schools**]{.iname}
+[Tirando x Colombia · 2023]{.imeta}
+[Theory of change, monitoring framework, baseline analysis and impact evaluation design.]{.ibody}
+:::
+
+::: {.item}
+[**Cash transfers to Venezuelan migrants in Colombia**]{.iname}
+[3ie · 2022]{.imeta}
+[Impact evaluation of the ADN Dignidad multi-purpose cash transfer program.]{.ibody}
+:::
+
+::: {.item}
+[**Reproducibility of nine impact evaluations**]{.iname}
+[3ie · 2022]{.imeta}
+[Push Button Replication analysis assessing whether published results could be reproduced from the authors' own data and code, and examining the methodological robustness of each.]{.ibody}
+:::
+
+::: {.item}
+[**Child malnutrition and obesity in Guatemala**]{.iname}
+[Inter-American Development Bank · 2022]{.imeta}
+[Impact evaluation of the SPOON program.]{.ibody}
+:::
+
+## Applied research reports
+
+::: {.item}
+[**[At What Expense? The State of Emergency in Callao and Its Short- and Long-Term Impact on Citizen Security, Domestic Violence and Social Well-Being](https://www.grade.org.pe/publicaciones/a-costa-de-que-el-estado-de-emergencia-en-el-callao-y-su-impacto-de-corto-y-largo-plazo-sobre-la-seguridad-ciudadana-la-violencia-familiar-y-el-bienestar-social/)**]{.iname}
+[Wilson Hernández, Ángelo Cozzubo and Andrea Román · Consorcio de Investigación Económica y Social · 2024 · lead quantitative analyst]{.imeta}
+:::
+
+::: {.item}
+[**[Considerations and Proposals for the Expansion of Pension Coverage Among Self-Employed Workers in Peru](https://repositorio.cepal.org/handle/11362/80402)**]{.iname}
+[Noelia Bernal · Economic Commission for Latin America and the Caribbean · 2024 · research assistant]{.imeta}
+:::
+
+::: {.item}
+[**[Public Opinion on Migration in Latin America and the Caribbean](https://publications.iadb.org/en/metadata/33219/public-opinion-migration-latin-america-and-caribbean)**]{.iname}
+[Inter-American Development Bank · 2022 · research assistant]{.imeta}
+:::

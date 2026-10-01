@@ -1,0 +1,17 @@
+---
+title: "Notes"
+---
+
+Shorter pieces, replications and half-formed ideas I want to come back to.
+Nothing here is finished work.
+
+<!-- Para agregar una entrada, copia el bloque de abajo.
+     Borra este comentario y el bloque de ejemplo cuando tengas la primera. -->
+
+::: {.paper}
+[**Example entry**]{.ptitle}<br>
+[Month Year]{.pmeta}
+
+[One or two lines describing the idea, the data, or the question. Link to a PDF,
+a notebook or a repository if there is one.]{.pabstract}
+:::

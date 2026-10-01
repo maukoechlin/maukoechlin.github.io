@@ -1,0 +1,111 @@
+---
+title: "Research"
+---
+
+## Publications
+
+::: {.paper}
+[**[Trapped by Tradition: Gender and Occupational Segregation in Peru](https://doi.org/10.1093/sp/jxaf039)**]{.ptitle}<br>
+[with Arlette Beltrán, María Amparo Cruz-Saco and Favio Leiva]{.coauthors}<br>
+[*Social Politics: International Studies in Gender, State & Society*, 2025 · [doi:10.1093/sp/jxaf039](https://doi.org/10.1093/sp/jxaf039)]{.pmeta}
+
+[Using nearly two decades of census and household survey data, we document that
+occupational segregation in Peru persisted even after women surpassed men in
+educational attainment, and that marriage and motherhood are associated with a
+higher likelihood of segregation.]{.pabstract}
+:::
+
+## Under review
+
+::: {.paper}
+[**Never Off Duty: Grandmothers' Co-residence and Mothers' Labor Participation**]{.ptitle}<br>
+[with Arlette Beltrán, María Amparo Cruz-Saco and Sebastián Núñez Rosell]{.coauthors}<br>
+[Revise and resubmit, *Social Politics*]{.pmeta}
+
+[Comparing mothers who live with a grandmother to those who do not, we find the
+former are more likely to work and to hold better-quality employment, suggesting
+that informal intergenerational caregiving substitutes for absent public
+childcare.]{.pabstract}
+:::
+
+::: {.paper}
+[**[Does Scarcity Tax Parents' Minds?](https://bfi.uchicago.edu/working-papers/does-scarcity-tax-parents-minds)**]{.ptitle}<br>
+[with Ariel Kalil]{.coauthors}<br>
+[BFI Working Paper 2026-46 · Under review, *Journal of Behavioral and Experimental Economics*]{.pmeta}
+
+[Low-income parents spend less time than advantaged parents on educational activities
+with their children, and a common explanation is that financial scarcity imposes a
+bandwidth tax on cognition. Surveying 1,932 mothers of kindergartners in Chicago
+Public Schools, we ask whether the binding constraint is attention or self-control,
+and whether the cost comes from low income itself or from the subjective experience
+of not having enough. Attentional capacity, not self-control, is the primary
+constraint, and felt scarcity rather than household income predicts attentional
+deficits.]{.pabstract}
+:::
+
+::: {.paper}
+[**[A Novel Assessment of Epistemic Curiosity and its Association with Early Learning Outcomes](https://bfi.uchicago.edu/working-papers/a-novel-assessment-of-epistemic-curiosity-and-its-association-with-early-learning-outcomes/)**]{.ptitle}<br>
+[with Ariel Kalil, Dana McCoy, Michelle Michelini and Terri Sabol]{.coauthors}<br>
+[BFI Working Paper 2026-112 · Under review, *Child Development*]{.pmeta}
+
+[We develop and validate the Animal Game, a ten-trial behavioral task that measures
+epistemic curiosity in young children and can be administered in the field rather
+than the laboratory. In a socioeconomically diverse sample of 594 U.S. children aged
+three to six, the task yields a novelty score and a knowledge-seeking score, with
+high internal consistency and measurement invariance across child sex and parental
+education.]{.pabstract}
+:::
+
+## Working papers
+
+::: {.paper}
+[**[Income Shocks and the Intergenerational Transmission of Executive Function](https://bfi.uchicago.edu/working-papers/income-shocks-and-the-intergenerational-transmission-of-executive-function/)**]{.ptitle}<br>
+[with Ariel Kalil]{.coauthors}<br>
+[BFI Working Paper 2026-30]{.pmeta}
+
+[Using Baby's First Years, a randomized trial of unconditional cash transfers to
+low-income mothers, we study the transmission of executive function from mothers to
+their four-year-old children.]{.pabstract}
+:::
+
+## Work in progress
+
+::: {.paper}
+[**Preschool Absenteeism and Experimental Sign-Up Bias: Evidence from a Field Experiment across U.S. States**]{.ptitle}<br>
+[with Sebastián Gallegos, Ariel Kalil and Ritika Sethi]{.coauthors}
+
+[A randomized field experiment across eight U.S. states testing whether a low-cost
+behavioral intervention reduces chronic absenteeism in early childhood. We build a
+new dataset linking daily administrative attendance records to parent surveys for
+2,048 children in 49 Head Start centers. Opt-out recruitment enrols 98 percent of
+eligible families, which also lets us measure how volunteer recruitment shifts the
+estimated treatment effect. Pre-registered as AEARCTR-0014680.]{.pabstract}
+
+[**Presented at** EC*REACH, Northwestern · Chicago, June 2026 — From Research to Action Convening, Attendance Works and the Overdeck Family Foundation · New York, July 2026 — Advances with Field Experiments, Becker Friedman Institute · Chicago, September 2026]{.pmeta}
+:::
+
+::: {.paper}
+[**How Traditional Are We? Gender Roles, Household Tasks, and Women's Labor Force Participation in Peru**]{.ptitle}<br>
+[Single-authored]{.coauthors}
+[Drawing on the 2024 round of Peru's National Survey of Social Relations, which
+introduces the first nationally representative battery of gender-role attitudes, I
+find that stronger traditional attitudes correlate with lower labor force
+participation among women, and that the unequal division of household tasks accounts
+for part of that association.]{.pabstract}
+
+[**Presented at** Annual Congress of the Peruvian Economic Association · Lima, 2026]{.pmeta}
+:::
+
+## Other writing
+
+::: {.paper}
+[**Perú sin tiempo: la otra cara de la pobreza**]{.ptitle}<br>
+[with Arlette Beltrán, Pablo Lavado and Sebastián Núñez Rosell]{.coauthors}<br>
+[Research report, Universidad del Pacífico Research Centre · September 2025]{.pmeta}
+
+[Using Peru's 2024 Time Use Survey, we estimate that 29.6 percent of Peruvians are
+time poor, above the 27.9 percent who are income poor, and that the burden falls
+hardest on women, on rural households and on adults between 31 and 65.]{.pabstract}
+
+[**In the press** [CIUP](https://ciup.up.edu.pe/analisis/arlette-beltran-pablo-lavado-peru-sin-tiempo-la-otra-cara-de-la-pobreza/) · [*Infobae Perú*](https://www.infobae.com/peru/2025/09/09/peru-sin-tiempo-la-otra-cara-de-la-pobreza/) · [*El Comercio*](https://elcomercio.pe/opinion/colaboradores/ser-pobre-de-tiempo-por-arlette-beltran-y-pablo-lavado-la-pobreza-de-tiempo-en-el-peru-noticia/)]{.pmeta}
+:::
