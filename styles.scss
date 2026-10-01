@@ -219,6 +219,8 @@ a:hover { text-decoration: underline; }
 
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 1fr; }
+  /* en móvil no hay columnas que alinear: la foto vuelve a tamaño razonable */
+  .avatar { width: 150px; height: 150px; }
   .hero-side .card-panel { padding: 1.5rem 1.6rem; }
   body { background-attachment: scroll; }
   .card-panel { padding: 1.4rem 1.3rem; }
