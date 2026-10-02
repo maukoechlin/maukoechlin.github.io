@@ -27,6 +27,15 @@ format:
   html:
     theme: [litera, styles.scss]
     page-layout: full
+    include-in-header:
+      text: |
+        <meta name="description" content="Mauricio Koechlin is an economist from Lima, Peru and a Pre-doctoral Research Professional at the Behavioral Insights and Parenting Lab, University of Chicago. Gender and the labor market, family economics, economics of education.">
+        <meta property="og:type" content="profile">
+        <meta property="og:title" content="Mauricio Koechlin">
+        <meta property="og:description" content="Economist from Lima, Peru. Pre-doctoral Research Professional at the Behavioral Insights and Parenting Lab, University of Chicago.">
+        <meta property="og:url" content="https://maukoechlin.github.io">
+        <meta property="og:image" content="https://maukoechlin.github.io/img/photo.jpg">
+        <meta name="twitter:card" content="summary">
     toc: false
     anchor-sections: false
     link-external-newwindow: true
