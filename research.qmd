@@ -7,7 +7,7 @@ title: "Research"
 ::: {.paper}
 [**[Trapped by Tradition: Gender and Occupational Segregation in Peru](https://doi.org/10.1093/sp/jxaf039)**]{.ptitle}<br>
 [with Arlette Beltrán, María Amparo Cruz-Saco and Favio Leiva]{.coauthors}<br>
-[*Social Politics: International Studies in Gender, State & Society*, 2025 · [doi:10.1093/sp/jxaf039](https://doi.org/10.1093/sp/jxaf039)]{.pmeta}
+[*Social Politics: International Studies in Gender, State & Society*, 2026, 33(3), 884–913 · [doi:10.1093/sp/jxaf039](https://doi.org/10.1093/sp/jxaf039)]{.pmeta}
 
 [Using nearly two decades of census and household survey data, we document that
 occupational segregation in Peru persisted even after women surpassed men in
@@ -31,7 +31,7 @@ childcare.]{.pabstract}
 ::: {.paper}
 [**[Does Scarcity Tax Parents' Minds?](https://bfi.uchicago.edu/working-papers/does-scarcity-tax-parents-minds)**]{.ptitle}<br>
 [with Ariel Kalil]{.coauthors}<br>
-[BFI Working Paper 2026-46 · Under review, *Journal of Behavioral and Experimental Economics*]{.pmeta}
+[BFI Working Paper 2026-46 · Revise and resubmit, *Journal of Behavioral and Experimental Economics*]{.pmeta}
 
 [Low-income parents spend less time than advantaged parents on educational activities
 with their children, and a common explanation is that financial scarcity imposes a
